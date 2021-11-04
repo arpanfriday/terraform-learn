@@ -7,3 +7,6 @@
 
 # terraform variable files
 *.tfvars
+
+# ignore crashlogs
+crash.log
